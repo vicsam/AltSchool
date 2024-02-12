@@ -13,38 +13,38 @@ Your login name: altschool i.e., home directory /home/altschool. The home direct
 
 
 
-**b.Change directory to the tests directory using relative pathname**
+**b. Change directory to the tests directory using relative pathname**
 
 ![altschool1](https://github.com/vicsam/AltSchool/assets/42593604/d7f92638-0450-4946-bb7a-48a52fba7a6b)
 
 
 
-**c.Use echo command to create a file named fileA with text content ‘Hello A’ in the misc directory**
+**c. Use echo command to create a file named fileA with text content ‘Hello A’ in the misc directory**
 
 ![altschool 2](https://github.com/vicsam/AltSchool/assets/42593604/b13b75d2-b5a1-42a5-b41b-161fefb2d4a0)
 
 
-**d.Create an empty file named fileB in the misc directory. Populate the file with a dummy content afterwards**
+**d. Create an empty file named fileB in the misc directory. Populate the file with a dummy content afterwards**
 
 ![altschool 3](https://github.com/vicsam/AltSchool/assets/42593604/e98882d7-bd9c-413b-8b9f-f77a30ce2fdf)
 
 
-**e.Copy contents of fileA into fileC**
+**e. Copy contents of fileA into fileC**
 
 ![altschool 4](https://github.com/vicsam/AltSchool/assets/42593604/3e0dc1f1-77cf-4ae1-bbec-88cac286c7e4)
 
 
-**f.Move contents of fileB into fileD**
+**f. Move contents of fileB into fileD**
 
 ![altschool 5](https://github.com/vicsam/AltSchool/assets/42593604/1998ef5d-3ae7-41e8-b25a-5d8b16b22943)
 
 
-**g.Create a tar archive called misc.tar for the contents of misc directory**
+**g. Create a tar archive called misc.tar for the contents of misc directory**
 
 ![altschool 6](https://github.com/vicsam/AltSchool/assets/42593604/bfb4c107-3a12-43fb-bf99-1532790b444f)
 
 
-**h.Compress the tar archive to create a misc.tar.gz file**
+**h. Compress the tar archive to create a misc.tar.gz file**
 
 ![altschool 7](https://github.com/vicsam/AltSchool/assets/42593604/00fe9b0c-a58a-4a70-9a88-ebc3e3e15ed6)
 
